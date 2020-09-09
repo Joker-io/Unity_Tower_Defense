@@ -1,7 +1,11 @@
 # Unity_Tower_Defense
 ***********************************************************************************************************************************************************************************
-## Gameplay and Info
+**This is my source code with assets and audio**
+I cannot allow permission to distribute this game for marketing purposes, as it was created for educational purposes (:
+Assets used can be found online, with a Google search ofc.
 ***********************************************************************************************************************************************************************************
+## Gameplay and Info
+
 This game was created in motivation of a class assignment.
 **I do not own the rights to the music**
 
@@ -13,5 +17,6 @@ This game was created in motivation of a class assignment.
 
 Credit to Brackeys for inspiring this game.
 his original work is found here:
+
 https://github.com/Brackeys/Tower-Defense-Tutorial
 ***********************************************************************************************************************************************************************************
